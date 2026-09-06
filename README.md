@@ -1,4 +1,7 @@
 # EasyAsFckCMS
+
+<img src="EASFCMSlogo.png alt="EasyAsF*ckCMS Logo" />
+
 **_Easy As F*ck CMS_** is an CMS which is for people who **do not have full admin panel access** (e.g. cPanel), and **only rely on FTP access**.
 
 Easy As F*ck CMS is also made for people which do not have a lot of IT abilities/or are new to CMS'es.
