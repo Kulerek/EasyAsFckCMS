@@ -52,4 +52,4 @@ Made from total zero, using it's own engine based on PHP.
 - [X] Plugin support
       
 ## License
-...
+Easy As F*ck CMS relies on the MIT License (found in LICENSE.MD).
